@@ -1,0 +1,27 @@
+Finished Tasks:
+Player:
+- animation
+- movement
+- hitbox and health
+- health UI
+- projectile
+
+Mobs: 
+Mushroom:
+- animations and movement
+- hit player
+
+Slime:
+- animations and movement
+- hit player
+
+Bat
+- animation and movement
+
+TODO:
+- Bat hit player (once tony uploads scene to GitHub)
+- enemy local health
+- projectiles hit enemies
+- create clone mob (using dif color player sprite)
+- create breakable block (for mushroom ability show case)
+- transform ability with swallow/eat default ability
